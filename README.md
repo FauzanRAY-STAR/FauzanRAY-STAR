@@ -3,7 +3,7 @@
 
 ---
 
-<img align="right" alt="Coding" width="220" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb212cGs5NjA2MGNwOTkzYXF0aW81NHo0aHo1NDNndHhkNzloaXRrdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6KirhLJyR7oMcwgJQk/giphy.gif">
+<img align="right" alt="Android" width="180" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg">
 
 - 🎓 Software Engineering student at Telkom University Purwokerto
 - 📱 Focused on Android development with Kotlin and clean architecture
@@ -31,8 +31,12 @@
 ## 🔥 GitHub Stats & Languages
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=FauzanRAY-STAR&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" alt="Fauzan's GitHub stats"/>
-  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FauzanRAY-STAR&layout=compact&langs_count=6&theme=omni&hide_border=false" alt="Fauzan's top languages"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=FauzanRAY-STAR&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FauzanRAY-STAR&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FauzanRAY-STAR&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
 </p>
 
 ---
@@ -68,13 +72,3 @@ An Android application for stunting screening in children aged 24–59 months. I
 - Pose landmark processing with MediaPipe
 - Local measurement history using Room Database
 - Kotlin architecture with ViewModel, Navigation Component, and Hilt
-
----
-
-<div align="center">
-
-*"Building reliable Android apps with real-world impact."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0B1F3A,0F4C81,0077B6,00A6A6&height=100&section=footer" width="100%" alt="Footer"/>
-
-</div>
